@@ -29,4 +29,5 @@ Este é um clone da **página inicial do Spotify**, criado com **HTML**, **CSS**
 
 1. Clone o repositório:
 ```bash
-git clone https://github.com/seu-usuario/spotify-clone.git
+[git clone https://github.com/seu-usuario/spotify-clone.git
+](https://github.com/vinisilvabariane/Spotify_Clone_Page_Inicial.git)
