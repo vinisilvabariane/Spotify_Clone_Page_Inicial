@@ -13,10 +13,7 @@ Este é um clone da **página inicial do Spotify**, criado com **HTML**, **CSS**
 ## 📸 Capturas de Tela
 
 ### 💻 Desktop
-![Desktop Screenshot](screenshots/desktop.png)
-
-### 📱 Mobile
-![Mobile Screenshot](screenshots/mobile.png)
+![0506](https://github.com/user-attachments/assets/34c173cc-e675-422e-bc90-7251514bbf50)
 
 ## 🧩 Funcionalidades
 
@@ -28,7 +25,6 @@ Este é um clone da **página inicial do Spotify**, criado com **HTML**, **CSS**
 ## 🛠️ Como Rodar o Projeto
 
 
-![0506](https://github.com/user-attachments/assets/34c173cc-e675-422e-bc90-7251514bbf50)
 
 
 
