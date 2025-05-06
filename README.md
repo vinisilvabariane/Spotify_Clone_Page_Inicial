@@ -27,8 +27,11 @@ Este é um clone da **página inicial do Spotify**, criado com **HTML**, **CSS**
 
 ## 🛠️ Como Rodar o Projeto
 
+
+![0506](https://github.com/user-attachments/assets/34c173cc-e675-422e-bc90-7251514bbf50)
+
+
+
 1. Clone o repositório:
 ```bash
-[git clone https://github.com/seu-usuario/spotify-clone.git
-](https://github.com/vinisilvabariane/Spotify_Clone_Page_Inicial.git)
-![0506](https://github.com/user-attachments/assets/130ad8c8-8d6e-4705-89e8-11945662c9d4)
+https://github.com/vinisilvabariane/Spotify_Clone_Page_Inicial.git
